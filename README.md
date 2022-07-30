@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neeraj Yadav
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently doing BS in Data Science and Applications from IITM
 - 📫 You can reach me at yadavneeraj652@gmail.com
 - 📫 Here is my Linkedin profile: https://www.linkedin.com/in/neeraj-yadav-ab2942188/
