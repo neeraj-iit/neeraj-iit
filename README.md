@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently doing BS in Data Science and Applications from IIT Madras
 - 📫 You can reach me at yadavneeraj652@gmail.com
-- 📫 Here is my Linkedin profile: https://www.linkedin.com/in/neeraj-yadav-ab2942188/
+- 📫 Here is my Linkedin profile: https://in.linkedin.com/in/neerajyadaviitm
 
 ## SKILLS
 |          |
